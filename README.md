@@ -6,7 +6,8 @@
 😄 Pronouns:He/Him
 ⚡ Fun fact: I love solving coding challenges and have a knack for finding creative solutions to complex problems!
 
-<!---
+<!### GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rankingsian&theme=dark)---
 Rankingsian/Rankingsian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
