@@ -6,4 +6,5 @@
 😄 Pronouns:He/Him
 ⚡ Fun fact: I love solving coding challenges and have a knack for finding creative solutions to complex problems!
 
-(https://streak-stats.demolab.com/?user=Rankingsian&theme=dark)
+### GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rankingsian&theme=dark)
