@@ -10,7 +10,7 @@ I am a Computer Science student with hands-on experience in backend development,
 - 🎓 Computer Science  
 - 🧠 Certified Virtual Assistant (ALX Africa)  
 - 📜 Software Development Certificate – Power Learn Project (PLP)  
-- ☁️ Microsoft Certified (Fundamentals Level)  
+- ☁️ Microsoft Azure AI Essentials certified
 - 👨‍💻 Passionate about Backend Development, AI/ML, and Full-Stack Systems  
 
 ---
