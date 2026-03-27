@@ -1,10 +1,81 @@
-👋 Hi, I’m Ian Wairimu......... @Rankingsian, a software developer passionate about building efficient and scalable solutions.
-👀 I’m interested in web development and open-source projects.
-🌱 I’m currently learning advanced algorithms, cloud computing, and exploring new JavaScript frameworks.
-💞️ I’m looking to collaborate on innovative projects that involve Python, JavaScript, or full-stack web development.
-📫 How to reach me: You can connect with me on GitHub or LinkedIn @Rankingsian, or email me at [mwangian877@gmail.com].
-😄 Pronouns:He/Him
-⚡ Fun fact: I love solving coding challenges and have a knack for finding creative solutions to complex problems!
+# 👋 Hi, I’m Ian Mwangi (@Rankingsian)
 
-## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rankingsian&theme=dark)
+💻 **Software Developer | Backend & AI Enthusiast | IT Support**
+
+I am a Computer Science student with hands-on experience in backend development, IT support, and building practical tech solutions. I am passionate about developing efficient, scalable systems and leveraging technology to solve real-world problems.
+
+---
+
+## 🚀 About Me
+- 🎓 Computer Science  
+- 🧠 Certified Virtual Assistant (ALX Africa)  
+- 📜 Software Development Certificate – Power Learn Project (PLP)  
+- ☁️ Microsoft Certified (Fundamentals Level)  
+- 👨‍💻 Passionate about Backend Development, AI/ML, and Full-Stack Systems  
+
+---
+
+## 🏆 Certifications
+- 📜 Power Learn Project (PLP) – Software Development  
+- 🧠 ALX Africa – Virtual Assistant Certification  
+- ☁️ Microsoft Certification (e.g., Azure Fundamentals / AI Fundamentals)  
+
+---
+
+## 👀 Interests
+- Web Development (Frontend & Backend)  
+- Artificial Intelligence & Machine Learning  
+- Cloud Computing & Scalable Systems  
+- Open Source Contributions  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Algorithms & Data Structures  
+- Python for Data Science (Pandas, NumPy, Matplotlib)  
+- Django & Backend Architecture  
+- AI/ML System Development  
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** Python, JavaScript  
+- **Frameworks:** Django  
+- **Tools & Platforms:** Git, Linux, Google Workspace, n8n  
+- **Other Skills:**  
+  - IT Support & Networking  
+  - Data Entry & Management  
+  - Social Media Management  
+
+---
+
+## 💡 Projects
+- 🐄 Dairy Farm Management System (SDG-focused)  
+- 📊 Health Awareness Dashboard (WHO Data Integration)  
+- 🌐 Social Media Platform (Backend Development)  
+- 🌱 FarmFusion (AI-powered Smart Farming Platform - In Progress)  
+
+---
+
+## 🤝 Collaboration
+I’m open to collaborating on:
+- Backend & Full-Stack Projects  
+- AI/ML Applications  
+- Open Source Projects  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: mwangian.direct@gmail.com  
+- 💻 GitHub: [@Rankingsian](https://github.com/Rankingsian)  
+- 🔗 LinkedIn: @Rankingsian  
+
+---
+
+## 😄 Pronouns
+He/Him  
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving coding challenges and building innovative solutions that make an impact 🚀
